@@ -12,9 +12,12 @@ If you find this work useful, please cite:
 
 ```bibtex
 @misc{meng2026dosa,
-  title  = {{DoSA}: Dots Sparse Attention},
-  author = {Meng, Fanxu and Fang, Taosong},
-  year   = {2026},
-  url    = {https://github.com/llm-sys/flash-indexer}
+  title         = {{DoSA}: Dots Sparse Attention},
+  author        = {Meng, Fanxu and Fang, Taosong},
+  year          = {2026},
+  eprint        = {2610.13990},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  url           = {https://arxiv.org/abs/2610.13990}
 }
 ```
